@@ -34,7 +34,7 @@ Markor is openly developed free software that accepts community contributions.
 <br/>📓 QuickNote: Fast accessible for keeping notes
 <br/>☑️ To-Do: Write down your to-do
 <br/>🖍 Formats: Markdown, todo.txt, Zim/WikiText, Plaintext, [csv](doc/2023-06-02-csv-readme.md), ics, ini, json, toml, vcf, yaml
-<br/>📋 Copy to clipboard: Copy any text, including text shared into Markor
+<br/>📋 Copy to the clipboard: Copy any text, including text shared into Markor
 <br/>💡 Notebook is the root folder of documents and can be changed to any location on the filesystem. QuickNote and To-Do are textfiles
 <br/>
 <br/>🎨 Highly customizable, dark theme available
